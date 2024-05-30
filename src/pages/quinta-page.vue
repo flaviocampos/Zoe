@@ -1,9 +1,10 @@
 <template>
   <div>
-    <VCard title="Sempre Alerta, mas vamos ver, 5011 🙌">
-      <VCardText>Esta é a Terceira Página</VCardText>
+    <VCard title="50 Anos no ramo imobiliario">
+      <VCardText>Quinta página - Alugue</VCardText>
       <VCardText>
-        Página com os dashboard
+        Aqui você vai encontrar os melhores imoveis da cidade Juiz de Fora.
+        5 andar, empresa do Grupo Zoe
       </VCardText>
     </VCard>
   </div>
